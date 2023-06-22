@@ -1,4 +1,4 @@
 # Project Introduction
 To forecast the true growth of COVID-19 cases in Singapore after accounting for asymptomatic infections, we study and make modifications to the SEIR (Susceptible-Exposed-Infected-Recovered) epidemiological model by incorporating hospitalization dynamics and the presence of asymptomatic cases. We then compare the simulation results of our three epidemiological models of interest against the daily reported COVID-19 case counts during the time period from 23rd January to 6th April 2020. Three epidemiological models are used to forecast the true growth of COVID-19 case counts byaccounting for asymptomatic infections in Singapore. They are the exponential model, SEIR model with hospitalization dynamics (SEIHRD), and the SEIHRD model with inclusion of asymptomatic cases (SEAIHRD).
 
-The full paper can be found [here](https://www.degruyter.com/document/doi/10.1515/em-2021-0031/html?lang=en)
+The full paper can be found [here](https://www.degruyter.com/document/doi/10.1515/em-2021-0031/html?lang=en).
